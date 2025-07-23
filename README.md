@@ -9,7 +9,7 @@ Automation is key for repetitive tasks like testing, scanning, review, and deplo
 - **Who is this for**: Developers, DevOps engineers, Security engineers
 - **What you'll learn**: How to create GitHub Actions workflows, how to run them, and how to use them to automate tasks.
 - **What you'll build**: An Actions workflow that will comment on a pull request when it is created.
-- **Prerequisites**: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
+- **Prerequisites**: [Introduction to GitHub](https://github.com/skills-dev/introduction-to-github)
 - **How long**: This exercise can be finished in less than 30min.
 
 In this exercise, you will:
