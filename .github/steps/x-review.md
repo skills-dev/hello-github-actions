@@ -13,6 +13,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 ### What's next?
 
-- [Take another exercise](https://learn.github.com/skills)
+- Take another exercise on [GitHub Learn](https://learn.github.com/skills)
+  - Take the [AI in Actions](https://github.com/skills/ai-in-actions) exercise to learn how to leverage AI models within your GitHub Actions workflows
 - [Learn more about GitHub Actions](https://docs.github.com/actions/)
 - [Awesome Actions](https://github.com/sdras/awesome-actions)
