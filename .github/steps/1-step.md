@@ -10,6 +10,7 @@ Workflows let you automate tasks like building, testing, or deploying your code,
 > If you want to learn more check out these resources:
 > - [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 > - [Events that trigger workflows](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows)
+> - [Actions runner pricing](https://docs.github.com/en/billing/reference/actions-runner-pricing)
 
 ### ⌨️ Activity: Create a workflow file
 
